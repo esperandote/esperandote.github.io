@@ -1,20 +1,33 @@
+ <center>
+     <h1>杨翰宾</h1>
+     <div>
+         <span>
+             <img src="assets/phone-solid.svg" width="18px">
+             18601682124
+         </span>
+         ·
+         <span>
+             <img src="assets/envelope-solid.svg" width="18px">
+             hanbin.oreja@gmail.com
+         </span>
+         ·
+         <span>
+             <img src="assets/github-brands.svg" width="18px">
+             <a href="https://github.com/esperandote">esperandote</a>
+         </span>
+     </div>
+ </center>
+
 # 个人信息
- - 杨翰宾/男/1997 
+ - 男/1997 
  - 本科/北京大学物理学院
  - 工作年限：3年
- - Github: [esperandote](https://github.com/esperandote)
-
----
-
-# 联系方式
-- 手机：18601682124 
-- Email：hanbin.oreja@gmail.com
 
 ---
 
 # 工作经历
 
-## 字节跳动 (2019.7 ~ 2021.7)
+## 字节跳动，飞书，前端工程师 (2019.7 ~ 2021.7)
 
 ### 飞书桌面端 (Windows, Mac)
 使用技术：公司内部框架（类似于 Electron）, React.js
@@ -95,7 +108,7 @@
 - 版本管理: git
 
 以下为学习过，但熟练程度一般的技能：
-- 桌面端框架: Qt (PySide)
+- 桌面端框架: Qt (PySide), WPF
 - 后端开发: node.js, nginx
 - 游戏开发框架: Godot, Unity
 
